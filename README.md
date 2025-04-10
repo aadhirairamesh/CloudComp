@@ -9,11 +9,6 @@ This project is a Machine Learning-based web application that predicts whether a
 
 ---
 
-## 📁 Project Structure
+##  Deployed Link 🔗
 
-bank-churn-app/ ├── app.py 
-
-# Flask application script ├── random_forest_model.pkl 
-# Trained ML model ├── requirements.txt 
-# Python dependencies ├── templates/ │ └── index.html 
-# HTML UI └── README.md # Project documentation
+https://cloudcomp.onrender.com
